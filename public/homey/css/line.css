@@ -1,0 +1,380 @@
+.maindiv
+{
+	padding: 6px;
+}
+.backgroundimage
+{
+	background: url('/homey/images/Line of Credit_BG.png');
+	/* background-size: auto; */
+	 height:740px;
+	 width: 100%;
+	 background-size: contain;
+	 background-position-y: 100PX;
+	 background-repeat: no-repeat;
+	
+	 /* background-size: cover;  */
+	 border-bottom: 6px solid #3270fc;
+
+}
+.linehorizantal
+{
+	border:3px solid #3270fc;
+	height: 1px;
+	width: 200px;
+	margin:auto;
+}
+.mainlineofcredit
+{
+	color:#3270fc;
+	font-size: 40px;
+	 font-weight: 600;
+	 letter-spacing: 5px;
+}
+
+.introsection
+{
+	height: 700px;
+	width: 100%;
+	border-radius: 20px 0 0 20px;
+	background-color: #3270fc;
+	 background-image: url('/homey/images/Line of Credit_CoinsOp (1).png'); 
+	 background-size: contain;
+	 background-repeat: no-repeat;
+	 background-blend-mode: lighten;
+	 background-position-y: -30px;
+	 background-position-x: -50px;
+	 background-repeat: no-repeat;
+}
+.firsthead
+{
+	color:white;font-weight: 600;font-size: 25px;
+}
+.secondheading
+{
+	color:white;font-weight: 700;font-size: 35px;
+}
+.thirdheading
+{
+	color:white;font-size: 20px;
+}
+.helpbtnsection
+{
+	float:right;margin-top:-85px;padding: 5px;background-color: white;margin-right: 20px;border-radius: 5px;justify-content: center;
+}
+.helpbtnlink
+{
+	padding:5px;border-radius: 5px;border-color: none;
+}
+.helpbtntext
+{
+	float: left; 
+}
+.callicon
+{
+	float:left; margin-top: 2px;padding:2px;background-color: white;
+}
+
+.lineofcreditimg
+{
+	height:250px;
+	/* margin-top: 50px; */
+
+}
+.normaltext
+{
+	width: 100%;margin-top: 20px;
+}
+.normaltextbox
+{
+	width: 100%;   padding: 0 0 0 40px;margin-bottom: 20px;
+}
+.normaltextbox i 
+{
+	width: 70px; height: 70px;line-height: 40px;color: #fff; border-radius: 4px; position: absolute;left: 0px;top: 0;font-size: 30px; ;
+
+}
+.normaltextbox h1
+{
+	text-align: left;padding-bottom: 4px;font-weight: 600;color: #000;font-size: 14px;
+}
+.howitworksmain
+{
+	width: 100%;justify-content: center;align-content: center;margin: auto;
+}
+.howitworkssec
+{
+	background-color: white;float: left; position: relative;padding: 2px 8px 35px 60px; margin-bottom: 20px;border-radius: 20px;
+    height: 55px; width: 180px;
+}
+.howitworkssec i 
+{
+	width: 85px; height: 172px;line-height: 56px;color: #000; border-radius: 4px; position: absolute;left: 0px; top: 0;font-size: 18px;
+}
+.howitworkssec h1 
+{
+	/* 1text-align: left; */
+    padding-bottom: 4px;font-weight: 600; color: #000;font-size: 17px;
+}
+.faqsec
+{
+	background-color: white;float: left;position: relative; padding: 15px 28px 35px 60px; margin-bottom: 20px; border-radius: 20px;
+    height: 55px;width: 180px;
+}
+.faqsec i {
+	width: 85px; height: 172px;  line-height: 56px;color: #000;border-radius: 4px; position: absolute; left: 0px;top: 0;font-size: 20px;
+}
+.faqsec h1
+{
+	padding-bottom: 4px;font-weight: 600; color: #000; font-size: 17px;
+}
+.botomwidget
+
+{
+	width:100%;padding: 10px;
+	margin-top: 2px;
+}
+.botomwidgetbox
+{
+	padding:10px;margin: auto;border-radius: 10px;background-color: white;
+}
+
+.botomwidgetboxtext
+{
+	width:100%;text-align:center;
+}
+.bottom-widget-button-background
+{
+	margin: auto;padding: 10px;
+}
+.bottom-widget-button
+{
+	padding: 1% 20% 1% 20% ;color: white;font-size: 22px;background-color: #3270fc;border-radius: 10px;width: 300px;
+
+}
+.bottom-widget-button:hover
+{
+	color: #3270fc;
+	border: 1px solid #3270fc;
+	background-color: #fff;
+}
+
+.bottom-widget-para
+{
+	margin:auto;text-align: center;
+    font-size: 15px;
+	margin-top: 10px;
+}
+.terms-and-conditions 
+{
+	text-decoration-line: underline;text-decoration: underline #3270fc;color: #3270fc;
+}
+.span-text
+{
+	color:#3270fc;
+}
+
+
+
+.how-it-works-popup-main
+{
+	padding: 200px 500px;
+}
+
+
+
+.reviewclose
+{
+	position: absolute;
+    top: 20px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 3;
+    color: #3270fc;
+    border-left: 1px solid rgba(255,255,255,0.11);
+    font-size: 18px;
+
+}
+
+.reportclose
+{
+	position: absolute;
+    top: 20px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 3;
+    color: #3270fc;
+    border-left: 1px solid rgba(255,255,255,0.11);
+    font-size: 18px;
+
+}
+
+.usersreportclose
+{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 3;
+    color: #3270FC;
+    border-left: 1px solid rgba(255,255,255,0.11);
+    font-size: 18px;
+}
+
+
+.faqclose
+{
+	position: absolute;
+    top: 20px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 3;
+    color: #3270fc;
+    border-left: 1px solid rgba(255,255,255,0.11);
+    font-size: 18px;
+
+}
+.howitworksclose
+{
+	position: absolute;
+    top: 20px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 3;
+    color: #3270fc;
+    border-left: 1px solid rgba(255,255,255,0.11);
+    font-size: 18px;
+
+}
+
+
+
+/*@media screen and (max-width: 1064px) {
+	.botomwidget
+	{
+		margin-top: 130px;
+	}
+	.introsection
+	{
+		height: 830px;
+	}
+	
+  
+}
+*/
+.rent-now-pay-later-text-padding {
+		    padding: 150px 10px 200px 30px;
+	}
+
+.rent-now-pay-later-background-image
+{
+	background-image: url('/homey/images/output-onlinepngtools (1).png');
+	 height:600px;
+	 width: 100%;
+	 background-size: contain; 
+	 border-bottom: 6px solid #3270fc;
+
+}
+.rent-now-pay-laterrent-now-pay-later-intro-second-heading-text-padding
+{
+	margin:auto;padding:150px 0 200px 50px;
+}
+.rent-now-pay-later-text-hewading
+{
+	font-size:70px;font-weight: 700;text-align: left;color: #3270fc; width: 450px;
+}
+.rent-now-pay-later-text-para
+{
+	margin-top:10px;font-weight: 300;font-size: 35px;text-align: left;width: 500px;
+}
+.rent-now-pay-later-intro
+{
+	height: 730px;
+	width: 100%;
+	border-radius: 20px 0 0 20px;
+	background-color: #3270fc;
+	 background-image: url('/homey/images/Line of Credit_CoinsOp (1).png'); 
+	 background-size: contain;
+	 background-repeat: no-repeat;
+	 background-blend-mode: lighten;
+	 background-position-y: -30px;
+	 background-position-x: -50px;
+	 background-repeat: no-repeat;
+	
+
+}
+.rent-now-pay-later-intro-first-heading
+{
+	font-size:22px;font-weight: 400;color: white;
+}
+.rent-now-pay-later-intro-second-heading
+{
+	font-size:28px;font-weight:500;color:white;
+
+}
+.rent-now-pay-later-intro-third-heading
+{
+	font-size: 20px;font-weight: 300;color:white;
+}
+
+.rent-now-pay-later-helpbtnsection
+	{
+		float: right;
+    margin-top: -80px;
+    padding: 5px;
+    background-color: white;
+    margin-right: 20px;
+    border-radius: 5px;
+	}
+.rent-now-pay-later-intro-dis
+	{
+		font-size: 20px;color:white;font-weight: 500;width: 270px; margin: auto;
+	}
+	.homeinsurance
+	{
+		margin-top:250px;
+	}
+
+
+
+@media screen and (max-width: 1064px) {
+	.botomwidget
+	{
+		margin-top: 130px;
+	}
+	.introsection
+	{
+		height: 870px;
+	}
+	.rent-now-pay-later-intro
+	{
+		height: 880px;
+	}
+	.rent-now-pay-later-text-padding {
+		    padding: 50px 0px 200px 2px;
+	}
+	.backgroundimage
+	{
+		height: 500px;
+		background-size: contain;
+		background-position-y: 220px;
+	}
+	.helpbtnsection
+	{
+		margin-top: -110px;
+	}
+	.bottom-widget-button
+	{
+		padding: 1% 15%;
+	}
+	.rent-now-pay-later-text-para
+	{
+		width: 365px;
+	}
+	.homeinsurance
+	{
+		margin-top:0px;
+	}
+
+	
+  
+}
